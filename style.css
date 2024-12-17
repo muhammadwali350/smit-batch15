@@ -1,0 +1,40 @@
+.p{
+    text-align: center;
+}
+.time{
+    background-color:goldenrod;
+    text-align: center;
+    padding: 5px;
+}
+.grey{
+    background-color: rgb(192, 189, 189);
+    text-align: center;
+    padding: 5px;
+}
+.darkferozi{
+    background-color: darkcyan;
+    text-align: center;
+    padding: 5px;
+}
+.lightf{
+    background-color: aqua;
+    text-align: center;
+    padding:5px;
+}
+.khamgrey{
+    background-color:rgb(231, 237, 241);
+    text-align: center;
+    padding: 5px;
+}
+.l{
+    background-color: aliceblue;
+    text-align: center;
+}
+.khaml{
+    background-color:bisque;
+    text-align: center;
+}
+.gold{
+    background-color: gold;
+    text-align: center;
+}
